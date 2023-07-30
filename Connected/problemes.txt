@@ -1,0 +1,113 @@
+login and signe in with google account !
+- responsive size of cards !
+-update image (formation,ebook) 
+-fix tel long
+-supprimer son profile
+-caché cv dans le front
+-ajouter site_web pour centre de formation 
+-changer le categorie au domaine dans le front
+- add genre to apprenant and change client to apprenant in the front
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bien sûr, voici une liste plus complète des catégories possibles que vous pouvez considérer pour votre plateforme :
+
+Programmes académiques:[
+Programmes de premier cycle
+Programmes de cycle supérieur
+Programmes de diplôme professionnel
+Certificats
+Diplômes]
+Développement professionnel:[
+Gestion et leadership
+Vente et marketing
+Ressources humaines
+Finance et comptabilité
+Gestion de projet
+Technologie de l'information
+Santé et sécurité
+Légal et conformité ]
+Développement personnel : [
+Gestion du temps
+Productivité
+Amélioration de soi
+Pleine conscience et méditation
+Réduction du stress
+Santé et bien-être
+Arts et artisanat créatifs
+Cuisine et arts culinaires]
+Formation professionnelle: [
+Apprentissages
+Certificats professionnels
+Programmes d'école de métier
+Métiers spécialisés
+Automobile
+Construction
+Électricité
+Plomberie
+Soudage ]
+Apprentissage des langues: [
+Cours de langue
+Programmes d'immersion
+Programmes d'échange linguistique
+Programmes de certification de langue
+Préparation aux examens
+Préparation aux examens standardisés (par exemple, SAT, GRE, GMAT, TOEFL)
+Examens de certification professionnelle (par exemple, CPA, CFA) ]
+Éducation continue :[
+Ateliers et séminaires
+Cours courts
+Conférences
+Apprentissage en ligne]
+Formation spécifique à l'industrie:[
+Soins de santé
+Hôtellerie et tourisme
+Vente au détail et vente
+Fabrication
+Transport et logistique
+Énergie et services publics
+Agriculture et agriculture]
+Formation technologique :[
+Codage et programmation
+Cybersécurité
+Cloud computing
+Science des données
+Intelligence artificielle et apprentissage automatique
+Développement web ]
+Arts et humanités :[
+Musique
+Théâtre et performance
+Film et vidéo
+Écriture et littérature
+Philosophie
+Histoire
+Religion]
